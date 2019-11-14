@@ -1,14 +1,14 @@
 # Lydia Ye  
 
 #### **Email:** lydiay3590@hstat.org
-**School:** High school of Telecommunication Arts and Technology 
+**School:** High School of Telecommunication Arts and Technology 
 
 ***
 
 I'm currently a junior who's in the Software Engineering Program. This year I'm going to be learning how to create websites by using HTML and CSS.  
 
-[Link to github account](https://github.com/lydiay3590)  
-[Link to HSTAT website](http://www.hstat.org/)
+[Link to GitHub account](https://github.com/lydiay3590)  
+[Link to the HSTAT SEP website](https://hstatsep.github.io/)
 ***
 
 **_Schedule:_**
@@ -24,7 +24,7 @@ I'm currently a junior who's in the Software Engineering Program. This year I'm 
 
 ***
 
-**_Topics learned within SEP:_**
+**_Topics taught in SEP11:_**
 
 > * Github
 >   * Git & Github
@@ -33,6 +33,7 @@ I'm currently a junior who's in the Software Engineering Program. This year I'm 
 >   * CSS
 > * Advance Web Design 
 > * Freedom Project
->   * Research for a topic
->   * Gather information
+>   * Researching topic 
+>   * Gathering notes
+>   * Synthesizing notes
 
