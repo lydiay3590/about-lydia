@@ -7,7 +7,7 @@
 
 I'm currently a junior who's in the Software Engineering Program. This year I'm going to be learning how to create websites by using HTML and CSS.  
 
-[Link to github account](https://github.com/lydiay3590)  
+[Link to GitHub account](https://github.com/lydiay3590)  
 [Link to HSTAT website](http://www.hstat.org/)
 ***
 
