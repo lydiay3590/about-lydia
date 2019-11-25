@@ -13,7 +13,7 @@ I'm currently a junior who's in the Software Engineering Program. This year I'm 
 
 **_Schedule:_**
 
-1. English 5  
+1. English 5   
 2. Spanish 5  
 3. SEP11  
 4. AP Calculus  
